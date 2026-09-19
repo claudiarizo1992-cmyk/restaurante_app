@@ -1,0 +1,14 @@
+[
+    {
+      "id_producto": "P001",
+      "nombre": "Hamburguesa Doble",
+      "precio": 8.5,
+      "categoria": "Platos Fuertes"
+    },
+    {
+      "id_producto": "P002",
+      "nombre": "Jugo Natural de Naranja",
+      "precio": 2.5,
+      "categoria": "Bebidas"
+    }
+]
